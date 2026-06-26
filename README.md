@@ -97,7 +97,7 @@ Text-Summarizer
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Text-summurization.git
+git clone https://github.com/seemalm278/Text-summurization.git
 ```
 
 ### 2. Open project directory
